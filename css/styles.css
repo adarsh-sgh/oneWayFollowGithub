@@ -1,10 +1,22 @@
 body{
-    background-color: #ff4c68;
+    /* background-color: #ff4c68; */
+    background-color: #1f2235;
     font-family:'Monserrat' , sans-serif; 
-    color: aliceblue;
+    color: antiquewhite;
+}
+h3{
+    color: gold;
+    margin-top: 2%;
 }
 
 .container{
     text-align: center;
-    padding: 5% 0;
+    padding: 3% 0;
 }
+
+.btns{
+    margin: 3% 0.25%;
+    color:antiquewhite;
+}
+
+
