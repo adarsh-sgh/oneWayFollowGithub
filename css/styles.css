@@ -1,0 +1,10 @@
+body{
+    background-color: #ff4c68;
+    font-family:'Monserrat' , sans-serif; 
+    color: aliceblue;
+}
+
+.container{
+    text-align: center;
+    padding: 5% 0;
+}
